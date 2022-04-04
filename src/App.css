@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 0.9em;
+}
+
+.search {
+  width: 80vw;
+  padding: 1vh 0 1vh 1vw;
+  margin-bottom: 1vh;
+  border-radius: 10px;
+  outline: none;
+  border: 2px solid rgb(18, 123, 150) ;
+}
+
+.fa-edit {
+  color:rgb(57, 94, 214) !important;
+}

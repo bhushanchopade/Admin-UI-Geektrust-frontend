@@ -1,4 +1,6 @@
 # GeekTrust_Admin_Ui
+- Live Host Link : https://adminuibhushan.netlify.app/
+- Git Repository clone link : https://github.com/bhushanchopade/Admin-UI-Geektrust-frontend.git
 
 The challenge
 
